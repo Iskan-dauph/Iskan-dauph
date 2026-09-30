@@ -1,5 +1,5 @@
 ## Hi there 👋
-Bienvenue sur le GitHub de Iskander, étudiant futur majorant de Dauphine (inshallah)
+Bienvenue sur le GitHub de Iskander, étudiant à Dauphine Tunis en MIA.
 
 <!--
 **Iskan-dauph/Iskan-dauph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
